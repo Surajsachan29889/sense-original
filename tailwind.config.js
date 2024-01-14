@@ -10,7 +10,8 @@ module.exports = {
       colors:{
         pri:'#76C1E1',
         sec:'#1C4F38',
-        tri:'#E4EAF9'
+        tri:'#E4EAF9',
+        quad:'#FFFEF0',
       }
     },
   },
